@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.group:hover {
+  border: 1px solid #FF617D;
+  border-radius: 20px;
+}
